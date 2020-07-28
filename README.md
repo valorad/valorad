@@ -10,17 +10,17 @@
 
 🌱 Have experience in Front-end Development: Angular, Vue, React, etc.
 
-🌱 Familiar with server development: node.js, .Net Core
+🌱 Familiar with server development: node.js, .Net Core.
 
-🌱 Knows how to deploy micro-services: Kubernetes, Docker, some CI/CD Techs
+🌱 Know how to deploy micro-services: Kubernetes, Docker, some CI/CD Techs.
 
-🔭 **Looking for a new family**: front-end / full-stack developer
+🔭 **Looking for a new family**: front-end / full-stack developer.
 
-💬 Speaks 简体中文, English, et un peu de français! 
+💬 Speak 简体中文, English, et un peu de français! 
 
-🌐 Checkout more on my personal website: [wcnexus.com](https://www.wcnexus.com/)
+🌐 Check out more on my personal website: [wcnexus.com](https://www.wcnexus.com/).
 
-🌐 Also active on [Twitter](https://twitter.com/wcxaaa), [Weibo](https://weibo.com/wcxaaa) and [Steam](https://steamcommunity.com/id/wcxaaa/)
+🌐 Also active on [Twitter](https://twitter.com/wcxaaa), [Weibo](https://weibo.com/wcxaaa) and [Steam](https://steamcommunity.com/id/wcxaaa/).
 
 <!--
 **valorad/valorad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
