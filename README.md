@@ -22,6 +22,8 @@
 
 🌐 Also active on [Twitter](https://twitter.com/wcxaaa), [Weibo](https://weibo.com/wcxaaa) and [Steam](https://steamcommunity.com/id/wcxaaa/).
 
+![GameCard](https://card.exophase.com/2/0/37765.png?1598204543)
+
 <!--
 **valorad/valorad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
