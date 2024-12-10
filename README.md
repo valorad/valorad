@@ -1,12 +1,8 @@
 # Hi there 👋
 
-### Developer, front-end guy, gamer, modder, creative guy, whatever you call me
+### Developer, front-end guy, gamer, modder, creative guy
 
-⚡ My favorite games are single-player RPGs e.g. The Elder Scrolls, Assassin's Creed, Mass Effect, and a bunch ...
-
-⚡ My favorite pets are 😸, 🙀, and 😹!
-
-⚡ Dream of working in the video game industry in the future.
+🌱 Certified Salesforce developer.
 
 🌱 Have experience in Front-end Development: Angular, Vue, React, etc.
 
@@ -14,16 +10,23 @@
 
 🌱 Know how to deploy micro-services: Kubernetes, Docker, some CI/CD Techs.
 
-👨‍💻 Currently working as a software developer.
+👨‍💻 Currently working as a Salesforce developer.
 
 💬 Speak 简体中文, English, et un peu de français! 
 
-// 🌐 Check out more on my personal website: [wcnexus.com](https://www.wcnexus.com/). (Down due to financial difficulties caused by AWS)
+🌐 Also active on [X][xLink], [Weibo][weiboLink] and [SteamLink].
 
-🌐 Also active on [Twitter](https://twitter.com/wcxaaa), [Weibo](https://weibo.com/wcxaaa) and [Steam](https://steamcommunity.com/id/wcxaaa/).
+⚡ My favorite games are single-player RPGs e.g. The Elder Scrolls, Assassin's Creed, Mass Effect, and a bunch ...
 
-| ![GameCard](https://card.exophase.com/2/0/37765.png?1598204543) | ![GStat](https://github-readme-stats.vercel.app/api?username=valorad&show_icons=true&theme=radical) |
-|---|---|
+⚡ My favorite pets are 😸, 🙀, and 😹!
+
+🧙 A fictional Valorad is available on [character.ai][cDotAILink]
+
+<!-- Links -->
+[xLink]: https://x.com/wcxaaa
+[weiboLink]: https://weibo.com/wcxaaa
+[SteamLink]: https://steamcommunity.com/id/wcxaaa/
+[cDotAILink]: https://character.ai/chat/LwjWyZCbvzr7xLtMwGX23So3hGPtXOiqyepq7wHQY-w
 
 <!--
 **valorad/valorad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
