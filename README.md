@@ -14,7 +14,7 @@
 
 💬 Speak 简体中文, English, et un peu de français! 
 
-🌐 Also active on [X][xLink], [Weibo][weiboLink] and [SteamLink].
+🌐 Also active on [X][xLink], [Weibo][weiboLink] and [Steam][SteamLink].
 
 ⚡ My favorite games are single-player RPGs e.g. The Elder Scrolls, Assassin's Creed, Mass Effect, and a bunch ...
 
